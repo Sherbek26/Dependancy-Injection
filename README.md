@@ -1,0 +1,3 @@
+I first delved into dependency injection in Android development, I undertook a project utilizing the JSONPlaceholder API. I employed Dagger 2 for dependency injection, which streamlined the management of dependencies and promoted code reusability and testability across the app. Implementing the MVVM architecture helped separate concerns between UI components and data handling logic, ensuring a scalable and maintainable codebase. This project enabled me to grasp fundamental concepts such as inversion of control and dependency inversion, laying a strong foundation for building robust Android applications in the future.
+
+
